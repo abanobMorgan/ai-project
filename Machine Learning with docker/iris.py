@@ -8,7 +8,6 @@ Original file is located at
 """
 
 import matplotlib.pyplot as plt
-from sklearn import metrics
 from sklearn.datasets import load_iris
 from sklearn.model_selection import train_test_split
 from sklearn.neighbors import KNeighborsClassifier
@@ -20,5 +19,16 @@ y = iris.target
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2 , random_state=4)
 
 knn = KNeighborsClassifier(n_neighbors=10)
-knn.fit(X,y)
+knn.fit(X_train,y_train)
+acc = knn.score(X_test,y_test)
+print(acc)
 
+
+
+
+
+def predict(sepal_length: float,sepal_width: float, petal_length : float,petal_width: float) -> str: 
+    res = knn.predict([[sepal_length, sepal_width,petal_length, petal_width ]])
+    value ={ 0:'setosa', 1:'versicolor', 2:'virginica'}
+
+    return value [res[0]]

@@ -1,0 +1,4 @@
+sklearn==0.0
+matplotlib==3.2.2
+flask==2.0.3
+matplotlib
