@@ -1,2 +1,7 @@
-# ai-project 
-## first we are going to do some Machine learning projects 
+# AI Projects
+## Data Science 
+## Machine Learning
+## Deep Learning 
+## Deployment
+## Datasets
+
