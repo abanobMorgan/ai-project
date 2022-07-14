@@ -1,23 +1,30 @@
 # Diabetes Project
-
 # Table of Contents
-## 1. Project Description
-## 2. Import Necssaries Libraries
-## 3. EDA
-## 4. Clustring
-### 4.1 Elbow Plot
-### 4.2 Plotting all the Clusters and their Centroids
-### 4.3 Analysis the Clusters
-## 5. Data Preprocessing
-## 6. Assigning Feature and target variables
-## 7. Feature Scaling
-## 8. Spliting the data into Training and Testing Data
-## 9. Modeling
-### 9.1 Logistic Regression
-### 9.2 Random Forest
-### 9.3 KNN
-### 9.4 Bagging
-### 9.5 Gradient Boosting
-### 9.6 Decision Tree
-### 9.7 SVM
-## 10. Auto Machine Learning
+<a id="toc"></a>
+- [1. Project Description](#1)
+- [2. Import Necssaries Libraries](#2)
+- [3. Data Preprocessing](#3)
+    - [3.1 Shape of the data](#3.1)
+    - [3.2 Detect Outliers with IQR score rule](#3.2)
+- [4. EDA and Feature Engineering](#4)
+    - [4.1 One hot encoder](#4.1)
+- [5. Assigning Feature and target variables](#5)
+- [6. Feature Scaling](#6)
+- [7. Spliting the data into Training and Testing Data](#7)
+- [8. Modeling](#8)
+    - [8.1 Logistic Regression](#8.1)
+    - [8.2 Random Forest](#8.2)
+    - [8.3 KNN](#8.3)
+    - [8.4 Bagging](#8.4)
+    - [8.5 Gradient Boosting](#8.5)
+    - [8.6 Decision Tree](#8.6)
+    - [8.7 SVM](#8.7)
+- [9. TP, TN, FP, FN](#9)
+    - [9.1 Logistic Regression](#9.1)
+    - [9.2 Random Forest](#9.2)
+    - [9.3 KNN](#9.3)
+    - [9.4 Bagging](#9.4)
+    - [9.5 Gradient Boosting](#9.5)
+    - [9.6 Decision Tree](#9.6)
+    - [9.7 SVM](#9.7)
+- [10. Auto ML](#10)
