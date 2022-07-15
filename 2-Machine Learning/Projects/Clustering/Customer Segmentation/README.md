@@ -1,0 +1,23 @@
+# Customer Segmentation
+# Table of Contents
+<a id="toc"></a>
+- [1. Project Description](#1)
+- [2. Import Necssaries Libraries](#2)
+- [3. EDA](#3)
+- [4. Clustring](#4)
+    - [4.1 Elbow Plot](#4.1)
+    - [4.2 Plotting all the Clusters and their Centroids](#4.2)
+    - [4.3 Analysis the Clusters](#4.3)
+- [5. Data Preprocessing](#5)
+- [6. Assigning Feature and target variables](#6)
+- [7. Feature Scaling](#7)
+- [8. Spliting the data into Training and Testing Data](#8)
+- [9. Modeling](#9)
+    - [9.1 Logistic Regression](#9.1)
+    - [9.2 Random Forest](#9.2)
+    - [9.3 KNN](#9.3)
+    - [9.4 Bagging](#9.4)
+    - [9.5 Gradient Boosting](#9.5)
+    - [9.6 Decision Tree](#9.6)
+    - [9.7 SVM](#9.7)
+- [10. Auto Machine Learning](#10)
