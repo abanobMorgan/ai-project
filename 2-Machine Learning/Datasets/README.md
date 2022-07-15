@@ -5,7 +5,7 @@
 
     - [1.1 Credit Card fraud Detection](https://github.com/abanobMorgan/ai-project/tree/master/2-Machine%20Learning/Projects/Classification/Credit%20Card%20fraud%20Detection)
     - [1.2 Diabetes](https://github.com/abanobMorgan/ai-project/tree/master/2-Machine%20Learning/Projects/Classification/Diabetes)
-    - [1.3 Fake News]()
+    - [1.3 Fake News](https://github.com/abanobMorgan/ai-project/tree/master/2-Machine%20Learning/Projects/Classification/Fake%20News)
     - [1.4 Gender Voice Prediction](https://github.com/abanobMorgan/ai-project/tree/master/2-Machine%20Learning/Projects/Classification/Gender%20Voice%20Prediction)
     - [1.5 Heart Disease Prediction]()
     - [1.6 Loan Prediction]()
