@@ -1,6 +1,6 @@
 # classification: 
-    
-# Machine learning Datasets:
+
+## This file link you to the dataset of each project.
 <a id="toc"></a>
 - [1. Classification](https://github.com/abanobMorgan/ai-project/tree/master/2-Machine%20Learning/Datasets/Classification)
 
